@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nakshathradentistry/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nakshathradentistry/static/js/main.d8a25304.chunk.js",
+    "main.js.map": "/nakshathradentistry/static/js/main.d8a25304.chunk.js.map",
+    "runtime-main.js": "/nakshathradentistry/static/js/runtime-main.e631e63a.js",
+    "runtime-main.js.map": "/nakshathradentistry/static/js/runtime-main.e631e63a.js.map",
+    "static/js/2.cd858ba0.chunk.js": "/nakshathradentistry/static/js/2.cd858ba0.chunk.js",
+    "static/js/2.cd858ba0.chunk.js.map": "/nakshathradentistry/static/js/2.cd858ba0.chunk.js.map",
+    "index.html": "/nakshathradentistry/index.html",
+    "precache-manifest.4677b1b9c788f6d8e4e62af0c8bf4b9f.js": "/nakshathradentistry/precache-manifest.4677b1b9c788f6d8e4e62af0c8bf4b9f.js",
+    "service-worker.js": "/nakshathradentistry/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nakshathradentistry/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cd858ba0.chunk.js.LICENSE.txt": "/nakshathradentistry/static/js/2.cd858ba0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nakshathradentistry/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e631e63a.js",
+    "static/js/2.cd858ba0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d8a25304.chunk.js"
+  ]
+}
